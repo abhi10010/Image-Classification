@@ -1,4 +1,4 @@
-# Image-Classification
+# Machine Learning Models
 <br><br>
 <b>Flower Recognition:</b>
   <br>1. Data Set: https://www.kaggle.com/alxmamaev/flowers-recognition
@@ -7,7 +7,7 @@
   
 <br>
 <b>Speech Emotion Recognition:</b>
-  <br>1. Data Set: shorturl.at/sOSZ4
+  <br>1. Data Set: https://shorturl.at/sOSZ4
   <br>2. Accuracy: 82.47%
   <br>3. Architechture: MLPClassifier
   
