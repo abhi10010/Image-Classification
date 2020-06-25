@@ -1,5 +1,11 @@
 # Machine Learning Models
 <br><br>
+<b>Stock Price Prediction:</b>
+  <br>1. Data Set: https://www.kaggle.com/alxmamaev/flowers-recognition
+  <br>2. Accuracy: Multiple(Different Stocks) 
+  <br>3. Architechture: LSTM and GRU
+
+<br>
 <b>Flower Recognition:</b>
   <br>1. Data Set: https://www.kaggle.com/alxmamaev/flowers-recognition
   <br>2. Accuracy: 94.68%
