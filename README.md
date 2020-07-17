@@ -17,3 +17,9 @@
   <br>2. Accuracy: 82.47%
   <br>3. Architechture: MLPClassifier
   
+<br><br>
+<b>Hand Written Text Detection using Gradio Sketchpad:</b>
+  <br>1. Data Set: https://www.tensorflow.org/datasets/catalog/mnist
+  <br>2. Accuracy: 99.44%
+  <br>3. Architechture: Sequential Model
+  
